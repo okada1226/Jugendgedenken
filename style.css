@@ -80,14 +80,52 @@ text-align:center;
 .image1 img {
   width:1475px;
 }
-
 .image2 {
 text-align:center;
-padding-top: 20px;
 }
 .image2 img {
   width:1475px;
 }
+.image3 {
+text-align:center;
+}
+.image3 img {
+  width:1475px;
+}
+.image4 {
+text-align:center;
+}
+.image4 img {
+  width:1475px;
+}
+.image5 {
+text-align:center;
+}
+.image5 img {
+  width:1475px;
+}
+.image6 {
+text-align:center;
+padding-top: 20px;
+}
+.image6 img {
+  width:1475px;
+}
+.image7 {
+text-align:center;
+padding-top: 20px;
+}
+.image7 img {
+  width:1475px;
+}
+.image8 {
+text-align:center;
+padding-top: 20px;
+}
+.image8 img {
+  width:1475px;
+}
+
 
 .br-sp {
   display: none;
